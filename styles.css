@@ -1,0 +1,39 @@
+h1, h3{
+  color:white;
+}
+body{
+  background-color:black;
+}
+#steps{
+  font-size:2em;
+  padding-left:50px;
+}
+#output{
+  background-color:white;
+  height:75px;
+  width:250px;
+  margin-top:20px;
+  padding-top:20px;
+  margin-left:auto;
+  margin-right:auto;
+  border-top-left-radius:2em;
+  border-top-right-radius:2em;
+}
+#calculator{
+  background-color:grey;
+  width:250px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-top:20px;
+  padding-bottom:30px;
+  border-bottom-left-radius:2em;
+  border-bottom-right-radius:2em;
+}
+a{
+  margin:5px;
+  width:2.6vw;
+  height:2.6vw;
+}
+.bigButton{
+  width:99px;
+}
